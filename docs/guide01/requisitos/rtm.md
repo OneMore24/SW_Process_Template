@@ -1,24 +1,31 @@
 # Especificación de requisitos de software
 
 ## Requisitos funcionales
-Los requisitos funcionales se expresan en lenguaje técnico a partir de los requisitos funcionales mandatorios que se han identificado en la categorización de requisitos de usuario.
-Ello implica el desarrollo de los siguientes puntos:
-- Puede escribirse en pseudocódigo incluyendo anotaciones de fórmulas de cálculo matemático según sea el caso. Este escenario es factible cuando el requisito ha sido claramente definido y validado
-  por el usuario/cliente.
-- Formato de interfaz de usuario y GUI como parte de la capa de presentación (Front End) del aplicativo de software: Incluye la interfaz de usuario para el sistema como propuesta inicial a las necesidades
-  del cliente. Deberá incluirlo en el Anexo “A”. Este escenario es factible cuando los requisitos no se encuentran definidos desde la perspectiva del usuario o existe dificultad para su obtención y entendimiento.
-  Puede utilizar cualquier herramienta mockup libre para diseñar sus interfaces: https://careerfoundry.com/en/blog/ux-design/free-wireframing-tools/
-  
-## Requisitos no funcionales
-- Portabilidad del software
-- Facilidad de mantenimiento: Que implica el grado de conocimiento de la herramienta de desarrollo del software, así como de la disponibilidad de personal técnico apropiado entre otros.
-- Usabilidad del software
-- Velocidad de procesamiento de datos
-- Restricciones técnicas del software: Por ejemplo, restricciones de diseño debido al sistema operativo utilizado, el entorno de la plataforma, problemas de compatibilidad con alguna aplicación interna o
-  externa a la organización, estándar para alguna aplicación determinada, entre otros.
+Los requisitos funcionales se expresan en lenguaje técnico a partir de los requisitos funcionales mandatorios identificados para FisiConnect:
 
+- El sistema debe autenticar usuarios mediante correo institucional
+- Los visitantes no registrados podrán visualizar únicamente títulos y una vista previa limitada de materiales
+- El sistema solo permitirá subir archivos académicos (.pdf, .pptx, .mp4, .xlsx, etc) hasta 300 MB
+- La búsqueda deberá implementar filtros por asignatura, carrera, semestre y etiquetas
+- Los materiales deberán incluir especificaciones: título, descripción, categoría, etiquetas
+- Los usuarios podrán calificar materiales y dejar reseñas
+- El sistema permitirá a los egresados aportar recomendaciones y guías
+- Se habilitará la opción de biblioteca personal
+- El sistema recomendará materiales relacionados automáticamente
+- El administrador podrá gestionar usuarios, categorías y materiales
+- Se fomentará la participación mediante insignias y ranking de usuarios
+
+## Requisitos no funcionales
+- **Portabilidad**: La plataforma debe estar disponible en versión web y como aplicación móvil (Android/iOS)
+- **Usabilidad**: La interfaz debe ser intuitiva, clara y accesible
+- **Mantenibilidad**: El código deberá estar documentado y el sistema desarrollado con tecnologías de fácil soporte
+- **Disponibilidad**: El sistema deberá estar disponible por lo menos el 95% del tiempo
+- **Almacenamiento**: El sistema debe poder manejar al menos 10 GB de materiales en la primera fase, con crecimiento progresivo
+
+---
 
 # Tips para mayor claridad
+
 ## Propósito
 Definir los requisitos técnicos mínimos (RTM) del proyecto de software.
 

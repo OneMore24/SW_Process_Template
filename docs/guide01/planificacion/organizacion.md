@@ -1,17 +1,17 @@
 ## Organización del Proyecto
 Se define el ED, sus miembros y los roles en el equipo.
 
-- **Jefe de proyecto**: responsable de la coordinación general.
-- **Analista de requisitos**: asegura la calidad de los requisitos de usuario.
+- **Jefe de proyecto**: Ventura Enciso Alan Jesús
+- **Analista de requisitos**: Villegas Niño Marco Antonio
 - **Equipo de desarrollo**:
-  - *Desarrollador A*: módulo backend.
-  - *Desarrollador B*: módulo frontend.
-- **Responsable de pruebas**: define y ejecuta los casos de prueba.
+  - *Villegas Niño Marco Antonio*: módulo backend.
+  - *Coaquira Mamani Milton Javier*: módulo frontend.
+- **Responsable de pruebas**: Ventura Enciso Alan Jesús
 
 
 | Rol | Nombre | Responsabilidades |
 |-----|--------|-------------------|
-| Jefe de Proyecto | Alumno 1 | Coordinar tareas, comunicación con docente |
-| Desarrollador | Alumno 2 | Programación backend |
-| Desarrollador | Alumno 3 | Programación frontend |
-| Tester | Alumno 4 | Diseño y ejecución de pruebas |
+| Jefe de Proyecto & Tester | Ventura Enciso Alan Jesús | Coordinar tareas, comunicación con docente, diseño y ejecución de pruebas, documentacion del proyecto |
+| Desarrollador | Coaquira Mamani Milton Javier | Diseño de interfaces de usuario |
+| Desarrollador | Villegas Niño Marco Antonio | Desarrollo de lógica de servidor, diseño e implementación de base de
+datos, configuración de entorno de servidor |
