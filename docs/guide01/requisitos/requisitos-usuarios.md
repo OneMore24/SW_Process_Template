@@ -42,7 +42,7 @@ Identificar patrones de estudio, dificultades académicas, necesidades específi
 58 estudiantes de pregrado de la Facultad de Ingeniería de Sistemas e Informática - UNMSM
 
 ## Instrumento de recolección
-Formulario digital disponible en: [https://forms.gle/ksuaajfXY4p3QE18A](https://forms.gle/ksuaajfXY4p3QE18A)
+Formulario digital disponible en: [https://forms.gle/vJYoqqZHxQbrZ2SXA](https://forms.gle/vJYoqqZHxQbrZ2SXA)
 
 ## Técnicas complementarias
 - Análisis de competencias existentes en el dominio educativo
