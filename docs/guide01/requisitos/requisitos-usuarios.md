@@ -39,7 +39,7 @@ Encuestas digitales mediante Google Forms dirigida a la comunidad estudiantil
 Identificar patrones de estudio, dificultades académicas, necesidades específicas y factores de motivación en el uso de recursos educativos digitales
 
 ## Población muestral
-58 estudiantes de pregrado de la Facultad de Ingeniería de Sistemas e Informática - UNMSM
+46 estudiantes de pregrado de la Facultad de Ingeniería de Sistemas e Informática - UNMSM
 
 ## Instrumento de recolección
 Formulario digital disponible en: [https://forms.gle/vJYoqqZHxQbrZ2SXA](https://forms.gle/vJYoqqZHxQbrZ2SXA)
