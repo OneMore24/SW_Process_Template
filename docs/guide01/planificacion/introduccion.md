@@ -1,8 +1,11 @@
 # FisiConnect
 
 ## Introducción
-FisiConnect es una plataforma digital diseñada para estudiantes de la Facultad de Ingeniería de Sistemas e Informática (FISI) de la UNMSM, que centraliza recursos académicos mediante un sistema colaborativo y gamificado. Este documento describe el plan de desarrollo del prototipo de software, proporcionando una guía clara sobre planificación, recursos necesarios, riesgos y organización del equipo.
+En el ámbito universitario, uno de los principales retos que enfrentan los estudiantes es la dificultad para acceder de manera rápida y organizada a materiales académicos de calidad. Actualmente, la búsqueda de apuntes, presentaciones, artículos y recursos de apoyo suele estar marcada por la dispersión, la falta de categorización y la escasa confiabilidad de las fuentes. Esta situación genera pérdidas de tiempo y limita la eficacia en los procesos de estudio.
 
+Frente a esta problemática surge la idea de desarrollar una plataforma académica que permita centralizar, organizar y compartir materiales de forma segura y accesible. El sistema está concebido como un espacio donde los estudiantes puedan registrarse, subir documentos, realizar búsquedas avanzadas, descargar recursos y evaluar la calidad de los mismos, mientras que los administradores mantendrán el control y la moderación de los contenidos.
+
+Asimismo, se proyecta que la plataforma evolucione de manera progresiva, incorporando nuevas funcionalidades en respuesta a las necesidades emergentes de los usuarios. De esta forma, el sistema no solo solucionará el desorden inicial en la gestión de materiales académicos, sino que también se consolidará como una herramienta dinámica, escalable y orientada a la mejora continua de la experiencia de aprendizaje.
 ### Descripción del Proyecto
 El proyecto busca resolver la falta de centralización de recursos académicos confiables en la FISI, facilitando el acceso a materiales de calidad validados por pares y fomentando la colaboración mediante un sistema de gamificación (rankings, insignias, puntos).
 
